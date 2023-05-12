@@ -28,9 +28,6 @@ def get_ru(n, p):
 
         if step == dif:
             return [r + shift, u + shift]
-
-# print(get_ru(5, 25))
-
 text = input()
 n, s, d = [int(x) for x in text.split()]
 
@@ -39,3 +36,11 @@ d_ru = get_ru(n, d)
 
 print("R: ", d_ru[0] - s_ru[0])
 print("U: ", d_ru[1] - s_ru[1])
+#Shift = تعداد لایه ای که جابجا شده بود
+#S = تعداد اعدادی که تا اون لایه مدنظر ما پوشش میده مثلا لایه اول شانزده تا عدد اول رو پوشش میده
+#P = وقتی ی پارامتر میخواییم به تابع پاس بدیم کار تابع پیدا کردن مختصات بود
+#N = ضلع مربع
+#L = left
+#R = right 
+#U = up
+#Dif = difference
