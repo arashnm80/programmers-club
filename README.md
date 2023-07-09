@@ -2,7 +2,7 @@
 **سلام بچه ها. این جا قراره محلی برای تمرین کسانی باشه که از قبل مقدمات و اصول کلی برنامه نویسی رو به یک زبان بلد هستند. هدفمون اینه که سوال های چالشی رو با الگوریتم ها و زبان های مختلف حل کنیم، از همدیگه یاد بگیریم و مهارتمون رو بیشتر کنیم.**
 ## 1402-04-14
 ### مسابقه پردیس کد کوئرا
-سوال اول این مسابقه به اسم *لانه کبوتری* رو حل کردیم که جوابش رو [اینجا](https://github.com/arashnm80/youtube-persian#%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3-%DA%A9%D8%AF---%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-9-%D8%AA%DB%8C%D8%B1-1402) گذاشتم.
+سوال اول این مسابقه به اسم **لانه کبوتری** رو حل کردیم که جوابش رو [اینجا](https://github.com/arashnm80/youtube-persian#%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3-%DA%A9%D8%AF---%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-9-%D8%AA%DB%8C%D8%B1-1402) گذاشتم.
 ![lane kabutari image](https://github.com/arashnm80/youtube-persian/blob/main/quera/pardis-code/1.%20lane%20kabutari.png)
 ## مسابقه 5000 دلاری TON
 ![ton contest](https://blog.ton.org/coverImages/ton-wiki-challenge.png)
