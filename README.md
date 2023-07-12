@@ -5,6 +5,9 @@
 سوال دوم به اسم **مار در جدول** رو حل کردیم که جوابش رو اینجا گذاشتم (نسخه ای که خودم تو خونه حل کردم):
 [link](https://github.com/arashnm80/youtube-persian/tree/main#%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3-%DA%A9%D8%AF---%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-9-%D8%AA%DB%8C%D8%B1-1402)
 
+این هم نسخه ایه که سر کلاس با هم نوشتیم:
+[link](https://github.com/arashnm80/programmers-club/blob/main/dates/1402-04-21/mardarjadval.py)
+
 ![mar dar jadval](https://github.com/arashnm80/youtube-persian/blob/main/quera/pardis-code/2.%20mar%20dar%20jadval.png)
 ## 1402-04-14
 ### مسابقه پردیس کد کوئرا
